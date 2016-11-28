@@ -1,0 +1,732 @@
+2015-02-01T07:54:04.109Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:54:04.110Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:54:04.110Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:54:04.110Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:55:38.744Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:55:38.744Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:55:38.744Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:55:38.744Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:29.917Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:29.918Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:29.918Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:29.918Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:59.933Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:59.933Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:59.934Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:59.934Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:57:25.190Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T07:57:25.201Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T07:57:25.715Z - info: Found 21 extensions
+2015-02-01T07:57:25.755Z - info: Using extension express
+2015-02-01T07:57:25.756Z - info: Using extension fop-pdf
+2015-02-01T07:57:25.757Z - info: Using extension html
+2015-02-01T07:57:25.758Z - info: Using extension xlsx
+2015-02-01T07:57:25.759Z - info: Using extension authentication
+2015-02-01T07:57:25.760Z - info: Using extension client-html
+2015-02-01T07:57:25.761Z - info: Using extension excel-parser
+2015-02-01T07:57:25.763Z - info: Using extension templates
+2015-02-01T07:57:25.764Z - info: Using extension data
+2015-02-01T07:57:25.765Z - info: Using extension html-to-xlsx
+2015-02-01T07:57:25.766Z - info: Using extension images
+2015-02-01T07:57:25.768Z - info: Using extension phantom-pdf
+2015-02-01T07:57:25.769Z - info: Using extension reports
+2015-02-01T07:57:25.770Z - info: Using extension text
+2015-02-01T07:57:25.770Z - info: Using extension childTemplates
+2015-02-01T07:57:25.771Z - info: Using extension scheduling
+2015-02-01T07:57:25.772Z - info: Using extension scripts
+2015-02-01T07:57:25.774Z - info: Using extension statistics
+2015-02-01T07:57:25.775Z - info: Using extension sample-template
+2015-02-01T07:57:25.775Z - info: Using extension authorization
+2015-02-01T07:57:25.777Z - info: Using extension embedding
+2015-02-01T07:57:26.495Z - info: Found 21 extensions
+2015-02-01T07:57:26.496Z - info: Using extension express
+2015-02-01T07:57:26.497Z - info: Using extension fop-pdf
+2015-02-01T07:57:26.498Z - info: Using extension html
+2015-02-01T07:57:26.499Z - info: Using extension xlsx
+2015-02-01T07:57:26.500Z - info: Using extension authentication
+2015-02-01T07:57:26.501Z - info: Using extension client-html
+2015-02-01T07:57:26.501Z - info: Using extension excel-parser
+2015-02-01T07:57:26.502Z - info: Using extension templates
+2015-02-01T07:57:26.503Z - info: Using extension data
+2015-02-01T07:57:26.504Z - info: Using extension html-to-xlsx
+2015-02-01T07:57:26.505Z - info: Using extension images
+2015-02-01T07:57:26.506Z - info: Using extension phantom-pdf
+2015-02-01T07:57:26.507Z - info: Using extension reports
+2015-02-01T07:57:26.508Z - info: Using extension text
+2015-02-01T07:57:26.509Z - info: Using extension childTemplates
+2015-02-01T07:57:26.510Z - info: Using extension scheduling
+2015-02-01T07:57:26.511Z - info: Using extension scripts
+2015-02-01T07:57:26.512Z - info: Using extension statistics
+2015-02-01T07:57:26.513Z - info: Using extension sample-template
+2015-02-01T07:57:26.515Z - info: Using extension authorization
+2015-02-01T07:57:26.515Z - info: Using extension embedding
+2015-02-01T07:57:26.543Z - info: Extensions loaded.
+2015-02-01T07:57:26.547Z - debug: Start of reporter initialize - express
+2015-02-01T07:57:26.547Z - info: Creating default express app.
+2015-02-01T07:57:26.592Z - info: jsreport server successfully started on https port: 15777
+2015-02-01T07:57:26.592Z - info: jsreport server successfully started on http port: 15555
+2015-02-01T07:57:26.592Z - debug: End of reporter initialize - express
+2015-02-01T07:57:26.595Z - debug: Start of reporter initialize - scheduling
+2015-02-01T07:57:26.595Z - debug: End of reporter initialize - scheduling
+2015-02-01T07:57:26.595Z - debug: Start of reporter initialize - sample-template
+2015-02-01T07:57:26.715Z - info: Extensions loaded.
+2015-02-01T07:57:26.719Z - debug: Start of reporter initialize - express
+2015-02-01T07:57:26.720Z - info: Creating default express app.
+2015-02-01T07:57:26.727Z - error: Error when starting http server on port 15777 Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T07:57:26.728Z - error: Error in reporter initialize - express/ Error - Error: listen EADDRINUSE
+2015-02-01T07:57:26.729Z - error: Error occured during reporter init Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T07:57:26.772Z - debug: End of reporter initialize - sample-template
+2015-02-01T07:57:26.774Z - info: reporter initialized
+2015-02-01T08:00:52.687Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T08:00:52.695Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T08:00:52.910Z - info: Found 21 extensions
+2015-02-01T08:00:52.916Z - info: Using extension express
+2015-02-01T08:00:52.919Z - info: Using extension fop-pdf
+2015-02-01T08:00:52.920Z - info: Using extension html
+2015-02-01T08:00:52.920Z - info: Using extension xlsx
+2015-02-01T08:00:52.921Z - info: Using extension authentication
+2015-02-01T08:00:52.922Z - info: Using extension client-html
+2015-02-01T08:00:52.923Z - info: Using extension excel-parser
+2015-02-01T08:00:52.924Z - info: Using extension templates
+2015-02-01T08:00:52.925Z - info: Using extension data
+2015-02-01T08:00:52.925Z - info: Using extension html-to-xlsx
+2015-02-01T08:00:52.926Z - info: Using extension images
+2015-02-01T08:00:52.927Z - info: Using extension phantom-pdf
+2015-02-01T08:00:52.927Z - info: Using extension reports
+2015-02-01T08:00:52.928Z - info: Using extension text
+2015-02-01T08:00:52.929Z - info: Using extension childTemplates
+2015-02-01T08:00:52.930Z - info: Using extension scheduling
+2015-02-01T08:00:52.930Z - info: Using extension scripts
+2015-02-01T08:00:52.931Z - info: Using extension statistics
+2015-02-01T08:00:52.932Z - info: Using extension sample-template
+2015-02-01T08:00:52.932Z - info: Using extension authorization
+2015-02-01T08:00:52.933Z - info: Using extension embedding
+2015-02-01T08:00:53.378Z - info: Found 21 extensions
+2015-02-01T08:00:53.394Z - info: Using extension express
+2015-02-01T08:00:53.396Z - info: Using extension fop-pdf
+2015-02-01T08:00:53.397Z - info: Using extension html
+2015-02-01T08:00:53.399Z - info: Using extension xlsx
+2015-02-01T08:00:53.401Z - info: Using extension authentication
+2015-02-01T08:00:53.402Z - info: Using extension client-html
+2015-02-01T08:00:53.403Z - info: Using extension excel-parser
+2015-02-01T08:00:53.404Z - info: Using extension templates
+2015-02-01T08:00:53.406Z - info: Using extension data
+2015-02-01T08:00:53.407Z - info: Using extension html-to-xlsx
+2015-02-01T08:00:53.408Z - info: Using extension images
+2015-02-01T08:00:53.409Z - info: Using extension phantom-pdf
+2015-02-01T08:00:53.410Z - info: Using extension reports
+2015-02-01T08:00:53.412Z - info: Using extension text
+2015-02-01T08:00:53.413Z - info: Using extension childTemplates
+2015-02-01T08:00:53.414Z - info: Using extension scheduling
+2015-02-01T08:00:53.416Z - info: Using extension scripts
+2015-02-01T08:00:53.418Z - info: Using extension statistics
+2015-02-01T08:00:53.420Z - info: Using extension sample-template
+2015-02-01T08:00:53.422Z - info: Using extension authorization
+2015-02-01T08:00:53.423Z - info: Using extension embedding
+2015-02-01T08:00:53.455Z - info: Extensions loaded.
+2015-02-01T08:00:53.461Z - debug: Start of reporter initialize - express
+2015-02-01T08:00:53.462Z - info: Creating default express app.
+2015-02-01T08:00:53.487Z - info: jsreport server successfully started on https port: 15777
+2015-02-01T08:00:53.487Z - info: jsreport server successfully started on http port: 15555
+2015-02-01T08:00:53.488Z - debug: End of reporter initialize - express
+2015-02-01T08:00:53.488Z - debug: Start of reporter initialize - scheduling
+2015-02-01T08:00:53.489Z - debug: End of reporter initialize - scheduling
+2015-02-01T08:00:53.489Z - debug: Start of reporter initialize - sample-template
+2015-02-01T08:00:53.489Z - debug: End of reporter initialize - sample-template
+2015-02-01T08:00:53.490Z - info: reporter initialized
+2015-02-01T08:00:53.490Z - info: Extensions loaded.
+2015-02-01T08:00:53.495Z - debug: Start of reporter initialize - express
+2015-02-01T08:00:53.496Z - info: Creating default express app.
+2015-02-01T08:00:53.500Z - error: Error when starting http server on port 15777 Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:00:53.501Z - error: Error in reporter initialize - express/ Error - Error: listen EADDRINUSE
+2015-02-01T08:00:53.501Z - error: Error occured during reporter init Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:01:28.438Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T08:01:28.468Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T08:01:28.683Z - info: Found 21 extensions
+2015-02-01T08:01:28.690Z - info: Using extension express
+2015-02-01T08:01:28.691Z - info: Using extension fop-pdf
+2015-02-01T08:01:28.692Z - info: Using extension html
+2015-02-01T08:01:28.693Z - info: Using extension xlsx
+2015-02-01T08:01:28.693Z - info: Using extension authentication
+2015-02-01T08:01:28.694Z - info: Using extension client-html
+2015-02-01T08:01:28.695Z - info: Using extension excel-parser
+2015-02-01T08:01:28.696Z - info: Using extension templates
+2015-02-01T08:01:28.697Z - info: Using extension data
+2015-02-01T08:01:28.697Z - info: Using extension html-to-xlsx
+2015-02-01T08:01:28.698Z - info: Using extension images
+2015-02-01T08:01:28.699Z - info: Using extension phantom-pdf
+2015-02-01T08:01:28.700Z - info: Using extension reports
+2015-02-01T08:01:28.701Z - info: Using extension text
+2015-02-01T08:01:28.702Z - info: Using extension childTemplates
+2015-02-01T08:01:28.702Z - info: Using extension scheduling
+2015-02-01T08:01:28.703Z - info: Using extension scripts
+2015-02-01T08:01:28.704Z - info: Using extension statistics
+2015-02-01T08:01:28.704Z - info: Using extension sample-template
+2015-02-01T08:01:28.705Z - info: Using extension authorization
+2015-02-01T08:01:28.706Z - info: Using extension embedding
+2015-02-01T08:01:29.188Z - info: Found 21 extensions
+2015-02-01T08:01:29.189Z - info: Using extension express
+2015-02-01T08:01:29.191Z - info: Using extension fop-pdf
+2015-02-01T08:01:29.192Z - info: Using extension html
+2015-02-01T08:01:29.193Z - info: Using extension xlsx
+2015-02-01T08:01:29.195Z - info: Using extension authentication
+2015-02-01T08:01:29.196Z - info: Using extension client-html
+2015-02-01T08:01:29.197Z - info: Using extension excel-parser
+2015-02-01T08:01:29.198Z - info: Using extension templates
+2015-02-01T08:01:29.200Z - info: Using extension data
+2015-02-01T08:01:29.201Z - info: Using extension html-to-xlsx
+2015-02-01T08:01:29.203Z - info: Using extension images
+2015-02-01T08:01:29.204Z - info: Using extension phantom-pdf
+2015-02-01T08:01:29.205Z - info: Using extension reports
+2015-02-01T08:01:29.206Z - info: Using extension text
+2015-02-01T08:01:29.208Z - info: Using extension childTemplates
+2015-02-01T08:01:29.209Z - info: Using extension scheduling
+2015-02-01T08:01:29.211Z - info: Using extension scripts
+2015-02-01T08:01:29.212Z - info: Using extension statistics
+2015-02-01T08:01:29.213Z - info: Using extension sample-template
+2015-02-01T08:01:29.216Z - info: Using extension authorization
+2015-02-01T08:01:29.217Z - info: Using extension embedding
+2015-02-01T08:01:29.251Z - info: Extensions loaded.
+2015-02-01T08:01:29.257Z - debug: Start of reporter initialize - express
+2015-02-01T08:01:29.257Z - info: Creating default express app.
+2015-02-01T08:01:29.269Z - info: jsreport server successfully started on http port: 15555
+2015-02-01T08:01:29.269Z - debug: End of reporter initialize - express
+2015-02-01T08:01:29.269Z - debug: Start of reporter initialize - scheduling
+2015-02-01T08:01:29.271Z - debug: End of reporter initialize - scheduling
+2015-02-01T08:01:29.272Z - debug: Start of reporter initialize - sample-template
+2015-02-01T08:01:29.272Z - debug: End of reporter initialize - sample-template
+2015-02-01T08:01:29.272Z - info: reporter initialized
+2015-02-01T08:01:29.273Z - info: Extensions loaded.
+2015-02-01T08:01:29.276Z - debug: Start of reporter initialize - express
+2015-02-01T08:01:29.276Z - info: Creating default express app.
+2015-02-01T08:01:29.279Z - error: Error when starting http server on port 15555 Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:55:16)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:01:29.280Z - error: Error in reporter initialize - express/ Error - Error: listen EADDRINUSE
+2015-02-01T08:01:29.280Z - error: Error occured during reporter init Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:55:16)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:02:25.311Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T08:02:25.318Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T08:02:25.519Z - info: Found 21 extensions
+2015-02-01T08:02:25.525Z - info: Using extension express
+2015-02-01T08:02:25.527Z - info: Using extension fop-pdf
+2015-02-01T08:02:25.528Z - info: Using extension html
+2015-02-01T08:02:25.529Z - info: Using extension xlsx
+2015-02-01T08:02:25.529Z - info: Using extension authentication
+2015-02-01T08:02:25.530Z - info: Using extension client-html
+2015-02-01T08:02:25.531Z - info: Using extension excel-parser
+2015-02-01T08:02:25.532Z - info: Using extension templates
+2015-02-01T08:02:25.533Z - info: Using extension data
+2015-02-01T08:02:25.534Z - info: Using extension html-to-xlsx
+2015-02-01T08:02:25.535Z - info: Using extension images
+2015-02-01T08:02:25.536Z - info: Using extension phantom-pdf
+2015-02-01T08:02:25.536Z - info: Using extension reports
+2015-02-01T08:02:25.537Z - info: Using extension text
+2015-02-01T08:02:25.538Z - info: Using extension childTemplates
+2015-02-01T08:02:25.538Z - info: Using extension scheduling
+2015-02-01T08:02:25.539Z - info: Using extension scripts
+2015-02-01T08:02:25.540Z - info: Using extension statistics
+2015-02-01T08:02:25.541Z - info: Using extension sample-template
+2015-02-01T08:02:25.541Z - info: Using extension authorization
+2015-02-01T08:02:25.542Z - info: Using extension embedding
+2015-02-01T08:02:25.985Z - info: Found 21 extensions
+2015-02-01T08:02:25.986Z - info: Using extension express
+2015-02-01T08:02:25.988Z - info: Using extension fop-pdf
+2015-02-01T08:02:25.989Z - info: Using extension html
+2015-02-01T08:02:25.990Z - info: Using extension xlsx
+2015-02-01T08:02:25.991Z - info: Using extension authentication
+2015-02-01T08:02:25.993Z - info: Using extension client-html
+2015-02-01T08:02:25.994Z - info: Using extension excel-parser
+2015-02-01T08:02:25.995Z - info: Using extension templates
+2015-02-01T08:02:25.996Z - info: Using extension data
+2015-02-01T08:02:26.015Z - info: Using extension html-to-xlsx
+2015-02-01T08:02:26.016Z - info: Using extension images
+2015-02-01T08:02:26.017Z - info: Using extension phantom-pdf
+2015-02-01T08:02:26.019Z - info: Using extension reports
+2015-02-01T08:02:26.020Z - info: Using extension text
+2015-02-01T08:02:26.022Z - info: Using extension childTemplates
+2015-02-01T08:02:26.023Z - info: Using extension scheduling
+2015-02-01T08:02:26.025Z - info: Using extension scripts
+2015-02-01T08:02:26.026Z - info: Using extension statistics
+2015-02-01T08:02:26.028Z - info: Using extension sample-template
+2015-02-01T08:02:26.030Z - info: Using extension authorization
+2015-02-01T08:02:26.031Z - info: Using extension embedding
+2015-02-01T08:02:26.067Z - info: Extensions loaded.
+2015-02-01T08:02:26.073Z - debug: Start of reporter initialize - express
+2015-02-01T08:02:26.074Z - info: Creating default express app.
+2015-02-01T08:02:26.087Z - info: jsreport server successfully started on http port: 15999
+2015-02-01T08:02:26.087Z - debug: End of reporter initialize - express
+2015-02-01T08:02:26.088Z - debug: Start of reporter initialize - scheduling
+2015-02-01T08:02:26.088Z - debug: End of reporter initialize - scheduling
+2015-02-01T08:02:26.089Z - debug: Start of reporter initialize - sample-template
+2015-02-01T08:02:26.089Z - debug: End of reporter initialize - sample-template
+2015-02-01T08:02:26.090Z - info: reporter initialized
+2015-02-01T08:02:26.090Z - info: Extensions loaded.
+2015-02-01T08:02:26.094Z - debug: Start of reporter initialize - express
+2015-02-01T08:02:26.094Z - info: Creating default express app.
+2015-02-01T08:02:26.098Z - error: Error when starting http server on port 15999 Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:55:16)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:02:26.099Z - error: Error in reporter initialize - express/ Error - Error: listen EADDRINUSE
+2015-02-01T08:02:26.099Z - error: Error occured during reporter init Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:55:16)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:03:32.169Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T08:03:32.311Z - info: Found 21 extensions
+2015-02-01T08:03:32.313Z - info: Using extension express
+2015-02-01T08:03:32.315Z - info: Using extension fop-pdf
+2015-02-01T08:03:32.316Z - info: Using extension html
+2015-02-01T08:03:32.317Z - info: Using extension xlsx
+2015-02-01T08:03:32.319Z - info: Using extension authentication
+2015-02-01T08:03:32.320Z - info: Using extension client-html
+2015-02-01T08:03:32.323Z - info: Using extension excel-parser
+2015-02-01T08:03:32.324Z - info: Using extension templates
+2015-02-01T08:03:32.325Z - info: Using extension data
+2015-02-01T08:03:32.326Z - info: Using extension html-to-xlsx
+2015-02-01T08:03:32.327Z - info: Using extension images
+2015-02-01T08:03:32.329Z - info: Using extension phantom-pdf
+2015-02-01T08:03:32.330Z - info: Using extension reports
+2015-02-01T08:03:32.331Z - info: Using extension text
+2015-02-01T08:03:32.333Z - info: Using extension childTemplates
+2015-02-01T08:03:32.334Z - info: Using extension scripts
+2015-02-01T08:03:32.335Z - info: Using extension statistics
+2015-02-01T08:03:32.336Z - info: Using extension scheduling
+2015-02-01T08:03:32.337Z - info: Using extension sample-template
+2015-02-01T08:03:32.339Z - info: Using extension authorization
+2015-02-01T08:03:32.340Z - info: Using extension embedding
+2015-02-01T08:03:32.723Z - info: Extensions loaded.
+2015-02-01T08:03:32.726Z - debug: Start of reporter initialize - express
+2015-02-01T08:03:32.726Z - info: Creating default express app.
+2015-02-01T08:03:32.740Z - error: Error when starting http server on port 443 Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:03:32.741Z - error: Error in reporter initialize - express/ Error - Error: listen EACCES
+2015-02-01T08:03:32.743Z - error: Error occured during reporter init Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:03:58.500Z - info: Starting rendering request 3
+2015-02-01T08:03:58.521Z - debug: Start of before render - excel-parser
+2015-02-01T08:03:58.523Z - debug: End of before render - excel-parser
+2015-02-01T08:03:58.523Z - debug: Start of before render - templates
+2015-02-01T08:03:58.524Z - debug: End of before render - templates
+2015-02-01T08:03:58.524Z - debug: Start of before render - data
+2015-02-01T08:03:58.524Z - debug: Inline data specified.
+2015-02-01T08:03:58.525Z - debug: End of before render - data
+2015-02-01T08:03:58.525Z - debug: Start of before render - childTemplates
+2015-02-01T08:03:58.527Z - debug: End of before render - childTemplates
+2015-02-01T08:03:58.527Z - debug: Start of before render - scripts
+2015-02-01T08:03:58.527Z - debug: Script not defined for this template.
+2015-02-01T08:03:58.527Z - debug: End of before render - scripts
+2015-02-01T08:03:58.527Z - debug: Start of before render - statistics
+2015-02-01T08:03:58.533Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T08:03:58.573Z - debug: End of before render - statistics
+2015-02-01T08:03:58.573Z - debug: Pdf recipe start.
+2015-02-01T08:03:58.660Z - debug: Start of after templating engines executed - images
+2015-02-01T08:03:58.662Z - debug: End of after templating engines executed - images
+2015-02-01T08:03:58.676Z - info: Found 21 extensions
+2015-02-01T08:03:58.677Z - info: Using extension express
+2015-02-01T08:03:58.678Z - info: Using extension fop-pdf
+2015-02-01T08:03:58.678Z - info: Using extension html
+2015-02-01T08:03:58.679Z - info: Using extension xlsx
+2015-02-01T08:03:58.680Z - info: Using extension authentication
+2015-02-01T08:03:58.681Z - info: Using extension client-html
+2015-02-01T08:03:58.681Z - info: Using extension excel-parser
+2015-02-01T08:03:58.683Z - info: Using extension templates
+2015-02-01T08:03:58.684Z - info: Using extension data
+2015-02-01T08:03:58.685Z - info: Using extension html-to-xlsx
+2015-02-01T08:03:58.685Z - info: Using extension images
+2015-02-01T08:03:58.686Z - info: Using extension phantom-pdf
+2015-02-01T08:03:58.687Z - info: Using extension reports
+2015-02-01T08:03:58.688Z - info: Using extension text
+2015-02-01T08:03:58.688Z - info: Using extension childTemplates
+2015-02-01T08:03:58.689Z - info: Using extension statistics
+2015-02-01T08:03:58.690Z - info: Using extension scheduling
+2015-02-01T08:03:58.691Z - info: Using extension scripts
+2015-02-01T08:03:58.691Z - info: Using extension sample-template
+2015-02-01T08:03:58.692Z - info: Using extension authorization
+2015-02-01T08:03:58.693Z - info: Using extension embedding
+2015-02-01T08:03:58.710Z - info: Extensions loaded.
+2015-02-01T08:03:58.714Z - debug: Start of reporter initialize - express
+2015-02-01T08:03:58.714Z - info: Creating default express app.
+2015-02-01T08:03:58.718Z - error: Error when starting http server on port 443 Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:03:58.718Z - error: Error in reporter initialize - express/ Error - Error: listen EACCES
+2015-02-01T08:03:58.718Z - error: Error occured during reporter init Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:03:58.786Z - debug: Rendering pdf end.
+2015-02-01T08:03:58.788Z - debug: Start of after render - reports
+2015-02-01T08:03:58.790Z - debug: Skipping storing report.
+2015-02-01T08:03:58.791Z - debug: End of after render - reports
+2015-02-01T08:03:58.791Z - debug: Start of after render - scripts
+2015-02-01T08:03:58.791Z - debug: End of after render - scripts
+2015-02-01T08:03:58.791Z - debug: Start of after render - statistics
+2015-02-01T08:03:58.804Z - debug: End of after render - statistics
+2015-02-01T08:03:58.805Z - info: Rendering request 3 finished in 305 ms
+2015-02-01T08:04:35.021Z - info: Starting rendering request 4
+2015-02-01T08:04:35.067Z - debug: Start of before render - excel-parser
+2015-02-01T08:04:35.071Z - debug: End of before render - excel-parser
+2015-02-01T08:04:35.071Z - debug: Start of before render - templates
+2015-02-01T08:04:35.072Z - debug: End of before render - templates
+2015-02-01T08:04:35.072Z - debug: Start of before render - data
+2015-02-01T08:04:35.072Z - debug: Inline data specified.
+2015-02-01T08:04:35.073Z - debug: End of before render - data
+2015-02-01T08:04:35.073Z - debug: Start of before render - childTemplates
+2015-02-01T08:04:35.074Z - debug: End of before render - childTemplates
+2015-02-01T08:04:35.074Z - debug: Start of before render - statistics
+2015-02-01T08:04:35.079Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T08:04:35.184Z - debug: End of before render - statistics
+2015-02-01T08:04:35.184Z - debug: Start of before render - scripts
+2015-02-01T08:04:35.184Z - debug: Script not defined for this template.
+2015-02-01T08:04:35.184Z - debug: End of before render - scripts
+2015-02-01T08:04:35.185Z - debug: Pdf recipe start.
+2015-02-01T08:04:35.253Z - debug: Start of after templating engines executed - images
+2015-02-01T08:04:35.255Z - debug: End of after templating engines executed - images
+2015-02-01T08:04:35.278Z - info: Found 21 extensions
+2015-02-01T08:04:35.279Z - info: Using extension express
+2015-02-01T08:04:35.280Z - info: Using extension fop-pdf
+2015-02-01T08:04:35.280Z - info: Using extension html
+2015-02-01T08:04:35.281Z - info: Using extension xlsx
+2015-02-01T08:04:35.282Z - info: Using extension authentication
+2015-02-01T08:04:35.283Z - info: Using extension client-html
+2015-02-01T08:04:35.283Z - info: Using extension excel-parser
+2015-02-01T08:04:35.284Z - info: Using extension templates
+2015-02-01T08:04:35.285Z - info: Using extension data
+2015-02-01T08:04:35.286Z - info: Using extension html-to-xlsx
+2015-02-01T08:04:35.286Z - info: Using extension images
+2015-02-01T08:04:35.287Z - info: Using extension phantom-pdf
+2015-02-01T08:04:35.288Z - info: Using extension reports
+2015-02-01T08:04:35.288Z - info: Using extension text
+2015-02-01T08:04:35.289Z - info: Using extension childTemplates
+2015-02-01T08:04:35.290Z - info: Using extension scheduling
+2015-02-01T08:04:35.291Z - info: Using extension scripts
+2015-02-01T08:04:35.292Z - info: Using extension statistics
+2015-02-01T08:04:35.293Z - info: Using extension sample-template
+2015-02-01T08:04:35.294Z - info: Using extension authorization
+2015-02-01T08:04:35.294Z - info: Using extension embedding
+2015-02-01T08:04:35.311Z - info: Extensions loaded.
+2015-02-01T08:04:35.314Z - debug: Start of reporter initialize - express
+2015-02-01T08:04:35.314Z - info: Creating default express app.
+2015-02-01T08:04:35.317Z - error: Error when starting http server on port 443 Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:04:35.318Z - error: Error in reporter initialize - express/ Error - Error: listen EACCES
+2015-02-01T08:04:35.319Z - error: Error occured during reporter init Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:04:35.366Z - debug: Rendering pdf end.
+2015-02-01T08:04:35.367Z - debug: Start of after render - reports
+2015-02-01T08:04:35.367Z - debug: Skipping storing report.
+2015-02-01T08:04:35.368Z - debug: End of after render - reports
+2015-02-01T08:04:35.368Z - debug: Start of after render - statistics
+2015-02-01T08:04:35.377Z - debug: End of after render - statistics
+2015-02-01T08:04:35.377Z - debug: Start of after render - scripts
+2015-02-01T08:04:35.377Z - debug: End of after render - scripts
+2015-02-01T08:04:35.378Z - info: Rendering request 4 finished in 357 ms
+2015-02-01T08:08:01.454Z - info: Searching for available extensions in /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/
+2015-02-01T08:08:01.586Z - info: Found 21 extensions
+2015-02-01T08:08:01.587Z - info: Using extension express
+2015-02-01T08:08:01.588Z - info: Using extension fop-pdf
+2015-02-01T08:08:01.589Z - info: Using extension html
+2015-02-01T08:08:01.590Z - info: Using extension xlsx
+2015-02-01T08:08:01.591Z - info: Using extension authentication
+2015-02-01T08:08:01.591Z - info: Using extension client-html
+2015-02-01T08:08:01.592Z - info: Using extension excel-parser
+2015-02-01T08:08:01.594Z - info: Using extension templates
+2015-02-01T08:08:01.594Z - info: Using extension data
+2015-02-01T08:08:01.595Z - info: Using extension html-to-xlsx
+2015-02-01T08:08:01.596Z - info: Using extension images
+2015-02-01T08:08:01.597Z - info: Using extension phantom-pdf
+2015-02-01T08:08:01.598Z - info: Using extension reports
+2015-02-01T08:08:01.599Z - info: Using extension text
+2015-02-01T08:08:01.600Z - info: Using extension childTemplates
+2015-02-01T08:08:01.600Z - info: Using extension scheduling
+2015-02-01T08:08:01.601Z - info: Using extension scripts
+2015-02-01T08:08:01.602Z - info: Using extension statistics
+2015-02-01T08:08:01.603Z - info: Using extension sample-template
+2015-02-01T08:08:01.604Z - info: Using extension authorization
+2015-02-01T08:08:01.605Z - info: Using extension embedding
+2015-02-01T08:08:01.978Z - info: Extensions loaded.
+2015-02-01T08:08:01.981Z - debug: Start of reporter initialize - express
+2015-02-01T08:08:01.981Z - info: Creating default express app.
+2015-02-01T08:08:01.996Z - error: Error when starting http server on port 443 Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:08:01.996Z - error: Error in reporter initialize - express/ Error - Error: listen EACCES
+2015-02-01T08:08:01.998Z - error: Error occured during reporter init Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24

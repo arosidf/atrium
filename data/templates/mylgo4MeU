@@ -1,0 +1,17 @@
+{
+    "_id": "5N8w3VJ5LezTuFww",
+    "shortid": "mylgo4MeU",
+    "name": "Sample report",
+    "content": "<h2>Book sales</h2>\r\n<table style='border-style:solid'>\r\n  <tr>\r\n    <th>Name</th>\r\n    <th>Author</th>\r\n    <th>Sales</th>\r\n  </tr>\r\n  {{#each books}}\r\n  <tr>\r\n    <td>{{name}}</td>\r\n    <td>{{author}}</td>\r\n    <td>{{sales}}</td>\r\n  </tr>  \r\n  {{/each}}    \r\n</table>\r\n\r\n<h2>The book of the month</h2>\r\n<span>{{mostSelling books \"name\"}}:</span>\r\n<span>{{mostSelling books \"sales\"}}</span>\r\n\r\n<h2>Book sales chart</h2> \r\n<script src=\"//code.jquery.com/jquery-1.11.0.min.js\"></script>\r\n<script src=\"//cdnjs.cloudflare.com/ajax/libs/flot/0.8.1/jquery.flot.min.js\"></script>\r\n<script src=\"//cdnjs.cloudflare.com/ajax/libs/flot/0.8.1/jquery.flot.categories.min.js\"></script>\r\n<div id=\"placeholder\" style=\"width:700px;height:350px\"></div>\r\n\r\n<script>\r\n    $(function () {   \r\n  \r\n        var data = [];\r\n        {{#each books}}\r\n        data.push([\"{{this.name}}\", {{this.sales}}]);\r\n        {{/each}}  \r\n  \r\n            $.plot(\"#placeholder\", [ data ], \r\n            {\r\n                series: { \r\n                    bars: { show: true, barWidth: 0.6, align: \"center\" }\r\n                },\r\n                xaxis: {   mode: \"categories\", tickLength: 0 }\r\n            }); \r\n    });\r\n</script>",
+    "recipe": "phantom-pdf",
+    "helpers": "function mostSelling(books, prop) {\r\n    return _.max(books, function(book){ return book.sales; })[prop];\r\n}\r\n",
+    "engine": "handlebars",
+    "modificationDate": {
+        "$$date": 1422777446755
+    },
+    "dataItemId": "QJgsVMgL",
+    "images": [],
+    "phantom": {
+        "header": "<h1 style='background-color: lightGray'>Library monthly report</h1> "
+    }
+}

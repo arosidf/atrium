@@ -1,0 +1,62 @@
+================================================================================
+FEATUREs
+================================================================================
+[V] Tanggal di "Tambah Kegiatan" menentukan client nya siapa
+[V] Range tanggal adalah H sd H-6 (7 hari)
+[V] Bila tanggal yang dipilih di luar tanggal PRF (placement), maka tidak bisa disimpan
+[V] Bila "tambah kegiatan" masih ada yg error, tidak bisa di simpan
+[V] Untuk action hanya boleh di edit/delete dari H sd H-7 (7 hari)
+[V] Pilihan masuk/libur/cuti/sakit
+[V] Pilih timesheet berdasarkan bulan + tahun
+[V] Edit timesheet
+[V] Delete timesheet
+[V] Pakai cgBusy
+[V] Landing page untuk ERO, resource
+[V] Routing di angular untuk ERO hanya boleh ERO, Resource hanya boleh resource
+[V] CRUD Client
+[V] CRUD User Resource
+[V] Hapus infra yang tidak dibutuhkan (login with fb/twitter/dll);
+[V] Tanggal di client & di server (hati-hati dengan format timezone)
+[V] Performance
+[V] Login => Bila user disable, maka tidak dapat login
+[V] ERO => List User Resource => change password, disable account
+[V] ERO => Melihat resource yang butuh PRF (external)
+[V] ERO => List Placement => Lihat data timesheet
+[V] ERO => Dapat melihat Timesheet resource dan mengedit/menambahnya meski di luar boundary 7 hari
+[V] ERO => Melihat performance
+[V] Resource => Dapat melihat detail timesheet meski lebih dari 7 hari yang lalu
+[V] ERO => Timesheet => Data resource belum ada
+[V] Deploy di rhcloud
+[V] Cetak timesheet
+[V] Form timesheet => Kalau template=true, langsung bisa di save tanpa input apapun
+[V] Jenis Technology di PRF => untuk sementara hardcode
+[V] Rumus KPI dinamis, disimpan di System-Config
+[V] Timesheet Template => Cuti bersama
+[V] Timesheet Form => 'Alfa'
+[V] Timesheet PDF => 'Alfa'
+
+[ ] SVN
+[ ] ERO => Untuk List Resource => order berdasarkan nip, nama, email
+[ ] Print timesheet => Logo Xsis sebisa mungkin embed
+[ ] Rumus KPI ada form sendiri
+[ ] Master jenis PRF (new/extend/trial/pay absence)
+[ ] Master Jenis Technology untuk PRF
+[ ] CRUD user dengan role ERO
+[ ] Ero & Resource => Bila ingin melihat performance tahun kemarin
+[ ] Saat ini, cetak html timesheet tanpa protection siapa yang dapat mengakses. Possible security hole!!!
+[ ] "retrieve-pdf-by-resource" dan "retrieve-pdf" masih copy-paste code. Harus direfactor.
+
+================================================================================
+BUGs
+================================================================================
+[V] Bila selected month memiliki jumlah hari 31, maka hari terakhir tidak ditampilkan
+[V] Browser Non chrome => input time tidak bisa => Hanya jadi textbox biasa
+
+[ ] Bila Timesheet Template ada hari "Cuti", kemudian resource tidak mengclick "Simpan" pada hari itu, maka performance hari itu tidak dihitung.
+	Hal ini kemungkina besar karena object Timesheet pada hari "Cuti" itu belum merujuk ke object Placement manapun.
+[ ] Menu account (pojok kanan atas) harus klik 2x agar menu keluar
+[ ] Bila kita ke "ERO -> Placement -> Detail", kemudian kita back ke "ERO -> Placement" dengan menggunakan backspace.
+	Kemudian kita melakukan placement, maka event listener "$rootScope.$on('ngDialog.closed', function (e, $dialog)" di
+	controller "detail-placements.controller.client.js" akan dijalankan
+
+	Kemungkinan hal ini juga berlaku untuk controller-controller yang lain

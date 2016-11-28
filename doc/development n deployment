@@ -1,0 +1,22 @@
+- rhc logout
+- rhc setup --rhlogin desdrianton.islamy@xsis.co.id
+
+- rhc app create atrium nodejs-0.10 mongodb-2.4 -s
+- Masuk ke rhc/atrium/
+- hapus semua kecuali folder:
+	1. .git
+	2. .openshift
+- Masuk ke local/XsisAtrium/
+- export NODE_ENV=production
+- grunt build
+- copy semua dari local/XsisPortal ke rhc/atrium (kecuali .gitignore)
+- pada rhc/atrium, ubah file package.json menjadi, hapus "postinstall"
+- pada rhc/atrium, ubah file package.json menjadi
+	"devDependencies": {
+	}
+- rhc set-env NODE_ENV=production --app atrium
+- git add . --all
+- git commit -m "bismillah"
+- git push
+
+- Install phantomjs di rhc

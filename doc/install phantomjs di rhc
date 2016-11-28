@@ -1,0 +1,11 @@
+Setelah semua terdeploy
+
+rhc ssh atrium
+cd $OPENSHIFT_DATA_DIR
+wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.8-linux-i686.tar.bz2
+bunzip2 phantomjs-1.9.8-linux-i686.tar.bz2 
+tar -xvf phantomjs-1.9.8-linux-i686.tar
+mkdir ~/app-root/runtime/repo/node_modules/phantom/bin/phantomjs/bin/ -p
+cp phantomjs-1.9.8-linux-i686/bin/phantomjs ~/app-root/runtime/repo/node_modules/phantom/bin/phantomjs/bin/
+chmod a+x ~/app-root/runtime/repo/node_modules/phantom/bin/phantomjs/bin/phantomjs
+exit

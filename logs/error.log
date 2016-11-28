@@ -1,0 +1,338 @@
+2015-02-01T07:54:04.109Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:54:04.110Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:54:04.110Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:54:04.110Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:55:04.008Z - error: uncaughtException: ENOENT, no such file or directory '/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/data/temp' date=Sun Feb 01 2015 14:55:04 GMT+0700 (WIB), pid=19244, uid=1000, gid=1000, cwd=/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium, execPath=/usr/bin/node, version=v0.10.35, argv=[node, /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/server.js], rss=105242624, heapTotal=89121792, heapUsed=57289560, loadavg=[0.24658203125, 0.23095703125, 0.24609375], uptime=25387.96997981, trace=[column=18, file=fs.js, function=Object.fs.readdirSync, line=666, method=fs.readdirSync, native=false, column=20, file=/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/reap/index.js, function=null, line=98, method=null, native=false, column=null, file=null, function=Array.forEach, line=null, method=forEach, native=true, column=13, file=/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/reap/index.js, function=Reaper.start, line=97, method=start, native=false, column=16, file=/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/bootstrapper.js, function=, line=163, method=null, native=false, column=14, file=timers.js, function=wrapper [as _onTimeout], line=261, method=null, native=false, column=15, file=timers.js, function=Timer.listOnTimeout [as ontimeout], line=112, method=listOnTimeout [as ontimeout], native=false], stack=[Error: ENOENT, no such file or directory '/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/data/temp',     at Object.fs.readdirSync (fs.js:666:18),     at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/reap/index.js:98:20,     at Array.forEach (native),     at Reaper.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/reap/index.js:97:13),     at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/bootstrapper.js:163:16),     at wrapper [as _onTimeout] (timers.js:261:14),     at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)]
+2015-02-01T07:55:04.013Z - error: uncaughtException: ENOENT, no such file or directory '/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/data/temp' date=Sun Feb 01 2015 14:55:04 GMT+0700 (WIB), pid=19244, uid=1000, gid=1000, cwd=/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium, execPath=/usr/bin/node, version=v0.10.35, argv=[node, /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/server.js], rss=105242624, heapTotal=89121792, heapUsed=57538624, loadavg=[0.24658203125, 0.23095703125, 0.24609375], uptime=25387.97942634, trace=[column=18, file=fs.js, function=Object.fs.readdirSync, line=666, method=fs.readdirSync, native=false, column=20, file=/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/reap/index.js, function=null, line=98, method=null, native=false, column=null, file=null, function=Array.forEach, line=null, method=forEach, native=true, column=13, file=/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/reap/index.js, function=Reaper.start, line=97, method=start, native=false, column=16, file=/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/bootstrapper.js, function=, line=163, method=null, native=false, column=14, file=timers.js, function=wrapper [as _onTimeout], line=261, method=null, native=false, column=15, file=timers.js, function=Timer.listOnTimeout [as ontimeout], line=112, method=listOnTimeout [as ontimeout], native=false, column=18, file=timers.js, function=null, line=124, method=null, native=false, column=13, file=node.js, function=process._tickCallback, line=442, method=_tickCallback, native=false, column=15, file=node.js, function=process._tickFromSpinner, line=417, method=_tickFromSpinner, native=false], stack=[Error: ENOENT, no such file or directory '/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/data/temp',     at Object.fs.readdirSync (fs.js:666:18),     at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/reap/index.js:98:20,     at Array.forEach (native),     at Reaper.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/reap/index.js:97:13),     at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/bootstrapper.js:163:16),     at wrapper [as _onTimeout] (timers.js:261:14),     at Timer.listOnTimeout [as ontimeout] (timers.js:112:15),     at timers.js:124:18,     at process._tickCallback (node.js:442:13),     at process._tickFromSpinner (node.js:417:15)]
+2015-02-01T07:55:38.744Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:55:38.744Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:55:38.744Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:55:38.744Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:29.917Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:29.918Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:29.918Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:29.918Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:59.933Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:59.933Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:59.934Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:56:59.934Z - error: Error occured during reporter init TypeError: Cannot read property 'port' of null
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:103:47
+From previous event:
+    at exports.findFreePort (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/util.js:100:14)
+    at TaskManager.start (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:35:12)
+    at TaskManager.ensureStarted (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/tasks/taskManager.js:87:17)
+    at Reporter.buildContext (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:80:24)
+    at Reporter.init (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/reporter.js:62:46)
+2015-02-01T07:57:26.727Z - error: Error when starting http server on port 15777 Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T07:57:26.728Z - error: Error in reporter initialize - express/ Error - Error: listen EADDRINUSE
+2015-02-01T07:57:26.729Z - error: Error occured during reporter init Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:00:53.500Z - error: Error when starting http server on port 15777 Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:00:53.501Z - error: Error in reporter initialize - express/ Error - Error: listen EADDRINUSE
+2015-02-01T08:00:53.501Z - error: Error occured during reporter init Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:01:29.279Z - error: Error when starting http server on port 15555 Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:55:16)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:01:29.280Z - error: Error in reporter initialize - express/ Error - Error: listen EADDRINUSE
+2015-02-01T08:01:29.280Z - error: Error occured during reporter init Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:55:16)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:02:26.098Z - error: Error when starting http server on port 15999 Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:55:16)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:02:26.099Z - error: Error in reporter initialize - express/ Error - Error: listen EADDRINUSE
+2015-02-01T08:02:26.099Z - error: Error occured during reporter init Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:55:16)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:03:32.741Z - error: Error when starting http server on port 443 Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:03:32.741Z - error: Error in reporter initialize - express/ Error - Error: listen EACCES
+2015-02-01T08:03:32.743Z - error: Error occured during reporter init Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:03:58.718Z - error: Error when starting http server on port 443 Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:03:58.718Z - error: Error in reporter initialize - express/ Error - Error: listen EACCES
+2015-02-01T08:03:58.718Z - error: Error occured during reporter init Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:04:35.317Z - error: Error when starting http server on port 443 Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:04:35.318Z - error: Error in reporter initialize - express/ Error - Error: listen EACCES
+2015-02-01T08:04:35.319Z - error: Error occured during reporter init Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+2015-02-01T08:08:01.996Z - error: Error when starting http server on port 443 Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+    at _fulfilled (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/node_modules/q/q.js:794:54)
+2015-02-01T08:08:01.997Z - error: Error in reporter initialize - express/ Error - Error: listen EACCES
+2015-02-01T08:08:01.998Z - error: Error occured during reporter init Error: listen EACCES
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1024:19)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at startAsync (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:37:12)
+    at startExpressApp (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:86:12)
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:16)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24
+From previous event:
+    at null.<anonymous> (/home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/extension/express/lib/reporter.express.js:148:65)
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:90:41
+    at /home/anton/__________ANTON/001.PROJECTS/xsis/rhc2/atrium/node_modules/jsreport/lib/util/listenerCollection.js:69:24

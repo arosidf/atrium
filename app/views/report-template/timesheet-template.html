@@ -1,0 +1,283 @@
+<html>
+	<head>
+		<style type="text/css">
+			table, th, td {
+			    border: 1px solid;
+			    border-collapse: collapse;
+			    font-style: normal;
+			    color: black;
+			    font-size: 9px;
+			}
+		</style>
+	</head>
+	<body>
+		<table style="width:100%">
+			<tr>
+				<th width="10%">Name of Project</th>
+				<th width="10%" colspan="3">Location</th>
+				<th width="20%" colspan="5" valign="middle">
+					Name:<br>
+					{{:resourceName}}
+				</th>
+				<th width="20%" rowspan="2" colspan="2"><img src="http://s4.postimg.org/lhx34ruw9/xsis_logo.jpg" height="77" width="83"></th>
+				<th width="40%" rowspan="2" colspan="2">
+					Periode:<br>
+					{{:startDate}} s/d {{:endDate}}
+				</th>
+			</tr>
+			<tr style="text-align:center">
+				<th>{{:clientNames}}</th>
+				<th colspan="3">{{:locationNames}} </th>
+				<th colspan="5" valign="middle">
+					XSIS ID:<br>
+					{{:resourceNip}}
+				</th>
+			</tr>
+			<tr style="text-align:center">
+				<th width="10%" rowspan="2">Date</th>
+				<th width="10%" colspan="3">Working Hour</th>
+				<th width="10%" colspan="3">Over Time</th>
+				<th width="5%" rowspan="2">Total Hour</th>
+				<th width="5%" rowspan="2">Total OT</th>
+				<th width="10%" rowspan="2">Status</th>
+				<th width="50%" rowspan="2" colspan="3">Activity/Remark</th>
+			</tr>	 				
+			<tr style="text-align:center">
+				<th style="border-right:0px">Start</th>
+				<th style="border-left:0px;border-right:0px">-</th>
+				<th style="border-left:0px">End</th>
+				<th style="border-right:0px">Start</th>
+				<th style="border-left:0px;border-right:0px">-</th>
+				<th style="border-left:0px">End</th>
+			</tr>
+
+		{{for timesheetList}}
+			{{if statusAbsensi === 'Libur' }} 
+			<tr style="background-color:gray">
+			{{else}}
+			<tr>
+			{{/if}}
+				<td style="text-align:center;">{{:tanggal_asString}}</td>
+				<td style="text-align:center;border-right:0px">{{:jamKerjaMulai}}</td>
+				<td style="text-align:center;border-right:0px;border-left:0px">-</td>
+				<td style="text-align:center;border-left:0px">{{:jamKerjaSelesai}}</td>
+				<td style="text-align:center;border-right:0px">{{:jamOTMulai}}</td>
+				<td style="text-align:center;border-right:0px;border-left:0px">-</td>
+				<td style="text-align:center;border-left:0px">{{:jamOTSelesai}}</td>
+				<td style="text-align:center">{{:jamKerjaTotal}}</td>
+				<td style="text-align:center">{{:jamOTTotal}}</td>
+				<td>{{:statusAbsensi}}</td>
+				<td colspan="3">{{:kegiatan}}</td>
+			</tr>
+		{{/for}}
+
+			<tr>
+				<td colspan="7" style="text-align:right">Total Hours</td>
+				<td style="text-align:center">{{:jamKerjaTotal}}</td>
+				<td style="text-align:center">{{:jamOTTotal}}</td>
+				<td colspan="4" style="border-bottom:0px"><b>Pernyataan Pegawai</b></td>
+			</tr>
+			<tr>
+				<td colspan="9" rowspan="3" valign="top">
+					<table style="border:0px;width:100%">
+						<tr style="border:0px">
+							<td colspan="2" style="border:0px"><u>Hari Kerja:</u></td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">a. Jumlah hari kerja</td>
+							<td style="border:0px;text-align:right">{{:totalHariKerja}}</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">b. Jumlah hari libur</td>
+							<td style="border:0px;text-align:right">{{:totalLibur}}</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">c. Jumlah hari pegawai sakit</td>
+							<td style="border:0px;text-align:right">{{:totalSakit}}</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">d. Jumlah hari pegawai cuti</td>
+							<td style="border:0px;text-align:right">{{:totalCuti}}</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">e. Jumlah hari pegawai alfa</td>
+							<td style="border:0px;text-align:right">{{:totalAlfa}}</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">f. Jumlah kehadiran pegawai</td>
+							<td style="border:0px;text-align:right">{{:totalMasuk}}</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">g. Persentase kehadiran karyawan (f/a)</td>
+							<td style="border:0px;text-align:right">{{:persentaseKehadiran}}</td>
+						</tr>
+					</table>
+					<br><br>
+					<table style="border:0px;width:100%">
+						<tr style="border:0px">
+							<td colspan="2" style="border:0px"><u>Jam Kerja:</u></td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">h. Total jam kerja standar hari kerja kalendar</td>
+							<td style="border:0px;text-align:right">{{:totalHariKerja_jamKerja}}</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">i. Total kehadiran jam kerja</td>
+							<td style="border:0px;text-align:right">{{:jamKerjaTotal}}</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">j. Total kehadiran jam kerja lembur</td>
+							<td style="border:0px;text-align:right">{{:jamOTTotal}}</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">k. Total jam kerja (i+j)</td>
+							<td style="border:0px;text-align:right">{{:jamTotal}}</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">l. Persentase jam kehadiran (k/h)</td>
+							<td style="border:0px;text-align:right">{{:persentaseJamKehadiran}}</td>
+						</tr>
+					</table>
+					<br>
+				</td>
+				<td colspan="4" style="border-top:0px">
+					Time report ini saya buat dengan sungguh-sungguh dan sebenarnya sesuai dengan nilai-nilai etika dan profesionalisme perusahaan.
+					<br><br>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="4">
+					Penilaian User
+					<br>
+					Performance karyawan bulan ini:
+					<br><br>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" colspan="2">
+					Sasaran dah Hasil Kerja
+					<br><br>
+					<table style="border:0px">
+						<tr style="border:0px">
+							<td style="border:0px">(4) Sangat Memuaskan</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">(3) Memuaskan</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">(2) Tidak Memuaskan</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">(1) Sangat Tidak</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">Memuaskan</td>
+							<td style="border:0px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+					</table>
+					<br>
+				</td>
+				<td valign="top">
+					Kompetensi Pendukung
+					<br><br>
+					<table style="border:0px">
+						<tr style="border:0px">
+							<td style="border:0px">(4) Sangat Memuaskan</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">(3) Memuaskan</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">(2) Tidak Memuaskan</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">(1) Sangat Tidak</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">Memuaskan</td>
+							<td style="border:0px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+					</table>
+					<br>
+				</td>
+				<td valign="top">
+					Kedisiplinan
+					<br><br>
+					<table style="border:0px">
+						<tr style="border:0px">
+							<td style="border:0px">(4) Sangat Memuaskan</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">(3) Memuaskan</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">(2) Tidak Memuaskan</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">(1) Sangat Tidak</td>
+							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr style="border:0px">
+							<td style="border:0px">Memuaskan</td>
+							<td style="border:0px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+					</table>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" valign="top">
+					<center>
+						Date:
+						<br><br><br><br><br>
+						<b>{{:currentDate}}</b>
+						<br><br>
+					</center>
+				</td>
+				<td colspan="7" valign="top">
+					<center>
+						Tanda tangan pegawai
+						<br><br><br><br><br>
+						<b>{{:resourceName}}</b>
+					</center>
+				</td>
+				<td valign="top" style="border-right:0px">
+					<center>
+						Diperiksa oleh
+						<br><br><br><br><br>
+						<b>{{:namaPemeriksa}}</b>
+					</center>
+				</td>
+				<td colspan="2" style="border-left:0px; border-right:0px">
+				</td>
+				<td valign="top" style="border-left:0px">
+					<center>
+						Disetujui oleh
+						<br><br><br><br><br>
+						<b>{{:namaPenyetuju}}</b>
+					</center>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<table style="width:100%">
+			<tr style="height:50px" valign="top">
+				<td style="width:25%">&nbsp;Tanggal Collect TS:</td>
+				<td style="width:25%" valign="top">&nbsp;Penerima:</td>
+				<td style="width:25%">&nbsp;Tepat Waktu:</td>
+				<td style="width:25%">&nbsp;Input Attrium:</td>
+			</tr>
+		</table>
+	</body>
+</html>
